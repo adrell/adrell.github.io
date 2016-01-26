@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Atori Baker - Portfolio</title>
+  <link type="text/css" rel="stylesheet" href="stylesheets/normalize.css"> 
+    <!--The link above called "normalize" goes to a CSS page that reset all of the browser defaults. Needs to be on Every Page-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <!--This is the link to the Bootstrap file, via CDN. This means you don't have to download it, it accesses a CSS page from the internet-->
+  <link type="text/css" rel="stylesheet" href="stylesheets/landing.css">
+    <!--This files goes to the CSS page I provided for the landing page. You can Open it as an example, but DO NOT EDIT IT! Any changes should go on a different CSS document-->
+  <link type="text/css" rel="stylesheet" href="stylesheets/style.css">
+    <!--This file will be the one that you customize yourself, with your own code.-->
+  <link href='https://fonts.googleapis.com/css?family=Audiowide' rel='stylesheet' type='text/css'>
+      <!--This link is for the google fonts API, which lets you customize .-->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--This makes the webpage check the size of the device it's on. This lets your page be mobile responsive-->
+</head>
+<body>
+  <div class="jumbotron">
+      <div class="portrait_name">
+        <img class="portrait" src="http://nickgutierrez.xyz/img/otter.jpg">
+        <h2>Atori Baker</h2>
+        <p>Computer Science<br>
+          Chicago Tech Academy</p>
+      </div>
+  </div>
+
+<content>
+    <article>
+        <h2>My Name is Atori Baker</h2>
+        <p> I am smart and i can work very well if i am listening to music because i get very focus. I get off task fast and the only thing to keep me focus is me sitting by myself. I grew up in chicago and been here all my life.
+    </article>
+
+<div class="thumbnail_space">
+<div class="row">
+    <div class="col-sm-6 col-md-6">
+        <div class="thumbnail">
+          <a target="_blank" href=""><img  alt="300x200" src="http://s1075.photobucket.com/upload.jpg" class="thumbnail_image img-responsive"></a>
+            <div class="caption">
+                 <h3>Art</h3>
+
+                <p>This class can reall help you to draw and paint alot of things you really like. It can also help you create alot thing out of wood and also other things
+                you like to do. This class have alot of projects that i really like the one we doing now out of wood.</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6 col-md-6">
+        <div class="thumbnail">
+          <a target="_blank" href=""><img  alt="300x200" src="http://nickgutierrez.xyz/img/filler_image.svg" class="thumbnail_image img-responsive"></a>
+            <div class="caption">
+                 <h3>MMA2</h3>
+
+                <p>This class can help you create alot of different websites and games on the internet that you really like to do on your free time. This class can help you learn different codes
+                that you never heard about.</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6 col-md-6">
+        <div class="thumbnail">
+          <a target="_blank" href=""><img  alt="300x200" src="http://nickgutierrez.xyz/img/filler_image.svg" class="thumbnail_image img-responsive"></a>
+            <div class="caption">
+                 <h3>History</h3>
+
+                <p>This class is my least favorie but it help you to learn about what happen in the past. It can also help you learn alot that you never heard about.</p>
+
+                          </div>
+        </div>
+    </div>
+    <div class="col-sm-6 col-md-6">
+        <div class="thumbnail">
+          <a target="_blank" href=""><img  alt="300x200" src="http://nickgutierrez.xyz/img/filler_image.svg" class="thumbnail_image img-responsive"></a>
+            <div class="caption">
+                 <h3>Engish</h3>
+
+                <p>This class can is fun because we made a story about a past event in our life and how it made felt. We also can learn some from this class in so many ways because it is easy to get your grade up.</p>
+
+                          </div>
+        </div>
+    </div>
+    <div class="col-sm-6 col-md-6">
+        <div class="thumbnail">
+          <a target="_blank" href=""><img  alt="300x200" src="http://nickgutierrez.xyz/img/filler_image.svg" class="thumbnail_image img-responsive"></a>
+            <div class="caption">
+                 <h3>Spanish</h3>
+
+                <p>This class is really fun because i get to learn another type of languge to speak to other people and a different way so they get understand me. The projects we have done i really like because i like to create
+                things.</p>
+
+                          </div>
+        </div>
+    </div>
+    <div class="col-sm-6 col-md-6">
+        <div class="thumbnail">
+          <a target="_blank" href=""><img  alt="300x200" src="http://nickgutierrez.xyz/img/filler_image.svg" class="thumbnail_image img-responsive"></a>
+            <div class="caption">
+                 <h3>Math</h3>
+
+                <p>This class is hard for because i dont understand alot of the stuff. I can learn from this class in so many ways because its gone help me in the future with money
+                and stuff i wanna do with my life.</p>
+
+                          </div>
+        </div>
+    </div>
+</div>
+
+</div> <!--End of Row-->
+</div><!--End of thumbnail_space-->
+</content>
+
+<footer>
+    Footer
+</footer>
+<!--This stuff is the javascript information. The top is for jQuery, the second is Bootstrap, and the 3rd is one one you will edit-->
+	<script src="http://code.jquery.com/jquery-1.11.0.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<script src="js/scripts.js" type="text/javascript" charset="utf-8"></script>
+</body>
