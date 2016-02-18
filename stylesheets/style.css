@@ -45,8 +45,17 @@ FONTS
 /**********************************
 COLORS and BACKGROUNDS
 Color 1:
+
 Color 1:
 Color 1:
 Color 1:
 Color 1:
 ***********************************/
+body{
+  background-color: #104CFF;
+}
+footer{
+  background:#00A2FF;
+}
+
+text-color:
